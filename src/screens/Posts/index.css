@@ -1,0 +1,28 @@
+.post-screen-title {
+  font-size: 1.75em;
+  font-weight: lighter;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.select-amount-button {
+  margin-left: 20px;
+  border: 1px solid #1890ff;
+  height: 35px;
+  background-color: white;
+  color: #1890ff;
+  border-radius: 5px;
+}
+
+.select-amount-button:hover {
+  background-color: #1890ff;
+  color: white;
+}
+
+.filter-button-cont {
+  margin-top: 10px;
+}
+
+.posts-container {
+  margin-top: 10px;
+}
